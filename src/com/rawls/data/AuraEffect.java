@@ -4,7 +4,7 @@ public class AuraEffect {
 
 	
 	/**
-	 * Class for determining and containing data about the effect certain players have on their teammates
+	 * Class for determining and containing data about the effect certain players have on their team mates
 	 */
 	
 	private int skater_effect, goalie_effect;

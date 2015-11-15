@@ -11,7 +11,7 @@ public abstract class Player {
 	private String fName; //first name
 	protected String playStyle; //this should be directly connected to the ai
 	
-	//The size of these variables will be set in the subclass
+	//The size of these variables will be set in the child class
 	protected int[] seasonStats; //for holding data about the current season
 	protected int[] careerStats; //For holding the cumulative stats for a player across their career
 	protected int[][] history; //For holding season by season data about the player
